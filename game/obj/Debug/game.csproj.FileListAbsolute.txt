@@ -1,0 +1,7 @@
+C:\Users\romak\source\repos\game\game\bin\Debug\game.exe.config
+C:\Users\romak\source\repos\game\game\bin\Debug\game.exe
+C:\Users\romak\source\repos\game\game\bin\Debug\game.pdb
+C:\Users\romak\source\repos\game\game\obj\Debug\game.csprojAssemblyReference.cache
+C:\Users\romak\source\repos\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\romak\source\repos\game\game\obj\Debug\game.exe
+C:\Users\romak\source\repos\game\game\obj\Debug\game.pdb
